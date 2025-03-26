@@ -5,4 +5,4 @@ This UI/UX design was created as part of my coursework. The attached file is in 
 If you'd like to see the complete, properly structured design, please reach out to me:
 
 📧 Email: rawufdeenriza@gmail.com
-🔗 LinkedIn: Rawufdeen Mohamad Riza
+🔗 LinkedIn: https://www.linkedin.com/in/rawufdeen-mohamad-riza-9a6b76254
